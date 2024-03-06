@@ -15,7 +15,8 @@ namespace LeetCode
             // Bitwise_AND_of_Numbers_Range_201.RangeBitwiseAnd(0, 0);
             // Find_the_Town_Judge_997.FindJudge(2, [[1,2]]);
             // Reverse_Linked_List.ReverseList(Reverse_Linked_List.PrepareData());
-            Remove_Linked_List_Elements.RemoveElements(Remove_Linked_List_Elements.PrepareData(), 6);
+            //Remove_Linked_List_Elements.RemoveElements(Remove_Linked_List_Elements.PrepareData(), 6);
+            Odd_Even_Linked_List.OddEvenList(Odd_Even_Linked_List.PrepareData());
         }
     }
 }
