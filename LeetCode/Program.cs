@@ -14,7 +14,8 @@ namespace LeetCode
             // var result = Find_Polygon_With_the_Largest_Perimeter_2971.LargestPerimeter([1,12,1,2,5,50,3]);
             // Bitwise_AND_of_Numbers_Range_201.RangeBitwiseAnd(0, 0);
             // Find_the_Town_Judge_997.FindJudge(2, [[1,2]]);
-            Reverse_Linked_List.ReverseList(Reverse_Linked_List.PrepareData());
+            // Reverse_Linked_List.ReverseList(Reverse_Linked_List.PrepareData());
+            Remove_Linked_List_Elements.RemoveElements(Remove_Linked_List_Elements.PrepareData(), 6);
         }
     }
 }
