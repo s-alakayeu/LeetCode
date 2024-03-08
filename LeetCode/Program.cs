@@ -17,7 +17,8 @@ namespace LeetCode
             // Reverse_Linked_List.ReverseList(Reverse_Linked_List.PrepareData());
             //Remove_Linked_List_Elements.RemoveElements(Remove_Linked_List_Elements.PrepareData(), 6);
             //Odd_Even_Linked_List.OddEvenList(Odd_Even_Linked_List.PrepareData());
-            Palindrome_Linked_List.IsPalindrome(Palindrome_Linked_List.PrepareData());
+            //Palindrome_Linked_List.IsPalindrome(Palindrome_Linked_List.PrepareData());
+            Count_Elements_With_Maximum_Frequency_3005.MaxFrequencyElements([1, 2, 2, 3, 1, 4]);
         }
     }
 }
