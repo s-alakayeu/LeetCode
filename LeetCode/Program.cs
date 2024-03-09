@@ -18,7 +18,8 @@ namespace LeetCode
             //Remove_Linked_List_Elements.RemoveElements(Remove_Linked_List_Elements.PrepareData(), 6);
             //Odd_Even_Linked_List.OddEvenList(Odd_Even_Linked_List.PrepareData());
             //Palindrome_Linked_List.IsPalindrome(Palindrome_Linked_List.PrepareData());
-            Count_Elements_With_Maximum_Frequency_3005.MaxFrequencyElements([1, 2, 2, 3, 1, 4]);
+            //Count_Elements_With_Maximum_Frequency_3005.MaxFrequencyElements([1, 2, 2, 3, 1, 4]);
+            Minimum_Common_Value_2540.GetCommon([6,13,18,18,28,34,37,39,46,50,52,54,62,63,65,66,75,80,97,98], [10,13,13,19,27,33,40,41,43,46,56,61,69,72,78,79,82,88,91,94]);
         }
     }
 }
