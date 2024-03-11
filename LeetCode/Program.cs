@@ -19,7 +19,8 @@ namespace LeetCode
             // Odd_Even_Linked_List.OddEvenList(Odd_Even_Linked_List.PrepareData());
             // Palindrome_Linked_List.IsPalindrome(Palindrome_Linked_List.PrepareData());
             // Intersection_of_Two_Arrays_349.Intersection([1, 2, 2, 1], [2, 2]);
-            Custom_Sort_String_791.CustomSortString("cba", "abcd");
+            // Custom_Sort_String_791.CustomSortString("cba", "abcd");
+            Merge_Two_Sorted_Lists_21.MergeTwoLists(Merge_Two_Sorted_Lists_21.PrepareData1(), Merge_Two_Sorted_Lists_21.PrepareData2());
         }
     }
 }
