@@ -4,7 +4,6 @@ namespace LeetCode.Questions;
 
 public static class Merge_Two_Sorted_Lists_21
 {
-
     public static ListNode PrepareData1()
     {
         return new ListNode(1, new ListNode(2, new ListNode(4)));
