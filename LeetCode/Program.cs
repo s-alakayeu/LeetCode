@@ -25,7 +25,8 @@ namespace LeetCode
             //Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List_1171.RemoveZeroSumSublists(Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List_1171.PrepareData());
             // Find_the_Pivot_Integer_2485.PivotInteger(8);
             // Height_Checker_1051.HeightChecker([1, 1, 4, 2, 1, 3]);
-            Insertion_Sort_List_147.InsertionSortList(Insertion_Sort_List_147.PrepareData());
+            // Insertion_Sort_List_147.InsertionSortList(Insertion_Sort_List_147.PrepareData());
+            Binary_Subarrays_With_Sum_930.NumSubarraysWithSum([1, 0, 1, 0, 1], 2);
         }
     }
 }
