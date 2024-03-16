@@ -26,7 +26,9 @@ namespace LeetCode
             // Find_the_Pivot_Integer_2485.PivotInteger(8);
             // Height_Checker_1051.HeightChecker([1, 1, 4, 2, 1, 3]);
             // Insertion_Sort_List_147.InsertionSortList(Insertion_Sort_List_147.PrepareData());
-            Binary_Subarrays_With_Sum_930.NumSubarraysWithSum([1, 0, 1, 0, 1], 2);
+            // Binary_Subarrays_With_Sum_930.NumSubarraysWithSum([1, 0, 1, 0, 1], 2);
+            // Product_of_Array_Except_Self_238.ProductExceptSelf([1, 2, 3, 4]);
+            Contiguous_Array_525.FindMaxLength([0,0,1,0,0,0,1,1]);
         }
     }
 }
