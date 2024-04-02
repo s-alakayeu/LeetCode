@@ -35,7 +35,8 @@ namespace LeetCode
             // Merge_In_Between_Linked_Lists_1669.MergeInBetween(Merge_In_Between_Linked_Lists_1669.PrepareNodeA(), 3, 4, Merge_In_Between_Linked_Lists_1669.PrepareNodeB());
             // Find_All_Duplicates_in_an_Array_442.FindDuplicates([4, 3, 2, 7, 8, 2, 3, 1]);
             // First_Missing_Positive_41.FirstMissingPositive([3, 4, -1, 1]);
-            Subarray_Product_Less_Than_K_713.NumSubarrayProductLessThanK([10, 5, 2, 6], 100);
+            // Subarray_Product_Less_Than_K_713.NumSubarrayProductLessThanK([10, 5, 2, 6], 100);
+            Isomorphic_Strings_205.IsIsomorphic("badc", "baba");
         }
     }
 }
