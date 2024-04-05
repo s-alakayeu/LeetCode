@@ -36,7 +36,8 @@ namespace LeetCode
             // Find_All_Duplicates_in_an_Array_442.FindDuplicates([4, 3, 2, 7, 8, 2, 3, 1]);
             // First_Missing_Positive_41.FirstMissingPositive([3, 4, -1, 1]);
             // Subarray_Product_Less_Than_K_713.NumSubarrayProductLessThanK([10, 5, 2, 6], 100);
-            Isomorphic_Strings_205.IsIsomorphic("badc", "baba");
+            // Isomorphic_Strings_205.IsIsomorphic("badc", "baba");
+            Make_The_String_Great_1544.MakeGood("abBAcC");
         }
     }
 }
