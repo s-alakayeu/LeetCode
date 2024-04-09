@@ -1,6 +1,4 @@
-﻿using System.Globalization;
-using LeetCode.Explore;
-using LeetCode.Questions;
+﻿using LeetCode.Questions;
 
 namespace LeetCode
 {
@@ -37,7 +35,8 @@ namespace LeetCode
             // First_Missing_Positive_41.FirstMissingPositive([3, 4, -1, 1]);
             // Subarray_Product_Less_Than_K_713.NumSubarrayProductLessThanK([10, 5, 2, 6], 100);
             // Isomorphic_Strings_205.IsIsomorphic("badc", "baba");
-            Make_The_String_Great_1544.MakeGood("abBAcC");
+            // Make_The_String_Great_1544.MakeGood("abBAcC");
+            Time_Needed_to_Buy_Tickets_2073.TimeRequiredToBuy([2, 3, 2], 2);
         }
     }
 }
