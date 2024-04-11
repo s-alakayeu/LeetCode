@@ -37,7 +37,8 @@ namespace LeetCode
             // Isomorphic_Strings_205.IsIsomorphic("badc", "baba");
             // Make_The_String_Great_1544.MakeGood("abBAcC");
             // Time_Needed_to_Buy_Tickets_2073.TimeRequiredToBuy([2, 3, 2], 2);
-            Reveal_Cards_In_Increasing_Order_950.DeckRevealedIncreasing([17, 13, 11, 2, 3, 5, 7]);
+            // Reveal_Cards_In_Increasing_Order_950.DeckRevealedIncreasing([17, 13, 11, 2, 3, 5, 7]);
+            Remove_K_Digits_402.RemoveKDigits("1432219", 3);
         }
     }
 }
