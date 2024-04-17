@@ -39,7 +39,8 @@ namespace LeetCode
             // Time_Needed_to_Buy_Tickets_2073.TimeRequiredToBuy([2, 3, 2], 2);
             // Reveal_Cards_In_Increasing_Order_950.DeckRevealedIncreasing([17, 13, 11, 2, 3, 5, 7]);
             // Remove_K_Digits_402.RemoveKDigits("1432219", 3);
-            Sum_Root_to_Leaf_Numbers_129.SumNumbers(Sum_Root_to_Leaf_Numbers_129.PrepareTree());
+            // Sum_Root_to_Leaf_Numbers_129.SumNumbers(Sum_Root_to_Leaf_Numbers_129.PrepareTree());
+            Smallest_String_Starting_From_Leaf_988.SmallestFromLeaf(Smallest_String_Starting_From_Leaf_988.PrepareNode());
         }
     }
 }
