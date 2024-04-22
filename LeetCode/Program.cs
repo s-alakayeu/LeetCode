@@ -42,7 +42,8 @@ namespace LeetCode
             // Sum_Root_to_Leaf_Numbers_129.SumNumbers(Sum_Root_to_Leaf_Numbers_129.PrepareTree());
             // Smallest_String_Starting_From_Leaf_988.SmallestFromLeaf(Smallest_String_Starting_From_Leaf_988.PrepareNode());
             // Island_Perimeter_463.IslandPerimeter([[0, 1, 0, 0], [1, 1, 1, 0], [0, 1, 0, 0], [1, 1, 0, 0]]);
-            Find_if_Path_Exists_in_Graph_1971.ValidPath(3, [[0, 1], [1, 2], [2, 0]], 0 , 2);
+            // Find_if_Path_Exists_in_Graph_1971.ValidPath(3, [[0, 1], [1, 2], [2, 0]], 0 , 2);
+            Open_the_Lock_752.OpenLock(["0201", "0101", "0102", "1212", "2002"], "0202");
         }
     }
 }
