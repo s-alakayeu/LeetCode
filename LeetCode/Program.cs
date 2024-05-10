@@ -1,4 +1,5 @@
-﻿using LeetCode.Questions;
+﻿using LeetCode.Explore;
+using LeetCode.Questions;
 
 namespace LeetCode
 {
@@ -50,7 +51,9 @@ namespace LeetCode
             // Number_of_Wonderful_Substrings_1915.WonderfulSubstrings("aba");
             // Compare_Version_Numbers_165.CompareVersion("11", "10");
             // Double_a_Number_Represented_as_a_Linked_List_2816.DoubleIt(Double_a_Number_Represented_as_a_Linked_List_2816.PrepareInput());
-            Relative_Ranks_506.FindRelativeRanks([10, 3, 8, 9, 4]);
+            // Relative_Ranks_506.FindRelativeRanks([10, 3, 8, 9, 4]);
+            // HeapSort.SortArray([5, 2, 3, 1]);
+            K_th_Smallest_Prime_Fraction_786.KthSmallestPrimeFraction([1, 2, 3, 5], 3);
         }
     }
 }
