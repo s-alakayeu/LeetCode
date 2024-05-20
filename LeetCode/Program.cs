@@ -56,7 +56,9 @@ namespace LeetCode
             // K_th_Smallest_Prime_Fraction_786.KthSmallestPrimeFraction([1, 2, 3, 5], 3);
             // Largest_Local_Values_in_a_Matrix_2373.LargestLocal([[9, 9, 8, 1], [5, 6, 2, 6], [8, 2, 6, 4], [6, 2, 2, 2]]);
             // Score_After_Flipping_Matrix_861.MatrixScore([[0, 0, 1, 1], [1, 0, 1, 0], [1, 1, 0, 0]]);
-            Path_with_Maximum_Gold_1219.GetMaximumGold([[0, 6, 0], [5, 8, 7], [0, 9, 0]]);
+            // Path_with_Maximum_Gold_1219.GetMaximumGold([[0, 6, 0], [5, 8, 7], [0, 9, 0]]);
+            // Distribute_Coins_in_Binary_Tree_979.DistributeCoins(Distribute_Coins_in_Binary_Tree_979.PrepareResult());
+            
         }
     }
 }
