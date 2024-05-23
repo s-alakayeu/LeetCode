@@ -60,7 +60,8 @@ namespace LeetCode
             // Path_with_Maximum_Gold_1219.GetMaximumGold([[0, 6, 0], [5, 8, 7], [0, 9, 0]]);
             // Distribute_Coins_in_Binary_Tree_979.DistributeCoins(Distribute_Coins_in_Binary_Tree_979.PrepareResult());
             // Sum_of_All_Subset_XOR_Totals_1863.SubsetXORSum([5, 1, 6]);
-            Subsets_78.Subsets([1, 2, 3]);
+            // Subsets_78.Subsets([1, 2, 3]);
+            The_Number_of_Beautiful_Subsets_2597.BeautifulSubsets([1,1,2,3], 1);
         }
     }
 }
