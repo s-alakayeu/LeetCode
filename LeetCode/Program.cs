@@ -69,7 +69,8 @@ namespace LeetCode
             // Score_of_a_String_3110.ScoreOfString("hello");
             // Reverse_String_344.ReverseString("hello".ToCharArray());
             // Append_Characters_to_String_to_Make_Subsequence_2486.AppendCharacters("lbg", "g");
-            Longest_Palindrome_409.LongestPalindrome("abccccdd");
+            // Longest_Palindrome_409.LongestPalindrome("abccccdd");
+            Find_Common_Characters_1002.CommonChars(["cool","lock","cook"]);
         }
     }
 }
