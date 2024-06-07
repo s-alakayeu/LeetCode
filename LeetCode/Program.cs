@@ -70,7 +70,15 @@ namespace LeetCode
             // Reverse_String_344.ReverseString("hello".ToCharArray());
             // Append_Characters_to_String_to_Make_Subsequence_2486.AppendCharacters("lbg", "g");
             // Longest_Palindrome_409.LongestPalindrome("abccccdd");
-            Find_Common_Characters_1002.CommonChars(["cool","lock","cook"]);
+            // Find_Common_Characters_1002.CommonChars(["cool","lock","cook"]);
+            // Hand_of_Straights_846.IsNStraightHand([1, 2, 3, 6, 2, 3, 4, 7, 8], 3);
+            Replace_Words_648.ReplaceWords(
+                [
+                    "ll", "now", "uap", "xn", "mtxbk", "en", "ifm", "tty", "j", "i", "ezfyt", "k", "wpl", "rnw", "yuuax", "fvy", "km", "ewko", "suvti", "ddv", "dzrfc", "f", "nkyb",
+                    "cpme", "ensn", "bjh", "soacg", "gd", "a", "lcwbs", "pjze", "bwlm", "svk", "um", "rpy", "mwyo", "iqj", "hsiki", "yv", "sdtd", "jns", "cfadn", "gxotu", "uoj",
+                    "xzao", "ug", "qnlvo", "fgbp", "dx", "m", "wp", "yoyf", "fyzl", "z", "mjcso", "s", "b", "u", "ad", "zrerd", "pyxxs", "g", "pgakz", "v", "owrpk", "slhb", "rprt"
+                ],
+                "zsyrupfxkwyzxnfkb nvsxmebaqwtejtdikjdb owabmqdbbo ltorldoq w xuyjdxmov hamjfoeae sqlftbmeywleeiscndj p jxu zoslotzcttjnbotki wyhyyueudixnorx vdglkopp cfakarjbf aboaszt onbffyfr cjpfrjqkolnamygqqj uwphkibxemxensz zouhcybstkbdyg ubfwglanyquhwlrglvc givqubayvmrvholkcke vkvyjrjraiollmlt npofa ffwnkttyp gwabsiibv vy tyrsvbuxticx e zfksmowe pdrlwocngdlpv n ouylngqjxilaqlkn zbxhafxxpvjkqpwdsy ssnsy itufigmudtvbv jw sfupomzekekabo caas nkmgrpuhskf rhifdognhfdoo pzecptqfzfvoa jzdlf zkcerlkxxqjy xzkwdgergjosa hgbovwtpzcpwtlwy tly ibtefvaozlsxo jopulkb mmgngozepqlpnqhvkn vwlbuktoipbncdnzhud urnocwb yfsrzjtvbt ybqbkflsz evlxlycwmlttaxlxdfjg xk tjjruytuikaucpcfxr ktbgnifciauv asvclppedfhf mldkna kbqtlbdwgftpzbojvsxm smzgn kyx zgclfw nsywjvgdicwccdoknm rhelltyrist fcijinwjev t");
         }
     }
 }
