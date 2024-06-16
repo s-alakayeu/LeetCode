@@ -83,7 +83,8 @@ namespace LeetCode
             // Subarray_Sums_Divisible_by_K_974.SubarraysDivByK([4, 5, 0, -2, -3, 1], 5);
             // Relative_Sort_Array_1122.RelativeSortArray([2, 3, 1, 3, 2, 4, 6, 7, 9, 2, 19], [2, 1, 4, 3, 9, 6]);
             // Minimum_Number_of_Moves_to_Seat_Everyone_2037.MinMovesToSeat([4, 1, 5, 9], [1, 3, 2, 6]);
-            Minimum_Increment_to_Make_Array_Unique_945.MinIncrementForUnique([3, 2, 1, 2, 1, 7]);
+            // Minimum_Increment_to_Make_Array_Unique_945.MinIncrementForUnique([3, 2, 1, 2, 1, 7]);
+            Patching_Array_330.MinPatches([1, 5, 10], 20);
         }
     }
 }
