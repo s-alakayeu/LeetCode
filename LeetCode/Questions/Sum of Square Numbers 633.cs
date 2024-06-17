@@ -4,8 +4,8 @@ public static class Sum_of_Square_Numbers_633
 {
     public static bool JudgeSquareSum(int c)
     {
-        var left = 0;
-        var right = (int)Math.Sqrt(c);
+        var left = 0L;
+        var right = (long)Math.Sqrt(c);
 
         while (left <= right)
         {
