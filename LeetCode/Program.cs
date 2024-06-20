@@ -86,7 +86,8 @@ namespace LeetCode
             // Minimum_Increment_to_Make_Array_Unique_945.MinIncrementForUnique([3, 2, 1, 2, 1, 7]);
             // Patching_Array_330.MinPatches([1, 5, 10], 20);
             // Sum_of_Square_Numbers_633.JudgeSquareSum(5);
-            Minimum_Number_of_Days_to_Make_m_Bouquets_1482.MinDays([7, 7, 7, 7, 12, 7, 7], 2, 3);
+            // Minimum_Number_of_Days_to_Make_m_Bouquets_1482.MinDays([7, 7, 7, 7, 12, 7, 7], 2, 3);
+            Magnetic_Force_Between_Two_Balls_1552.MaxDistance([1, 2, 3, 4, 7], 3);
         }
     }
 }
