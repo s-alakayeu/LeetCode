@@ -91,7 +91,8 @@ namespace LeetCode
             // Grumpy_Bookstore_Owner_1052.MaxSatisfied([1, 0, 1, 2, 1, 1, 7, 5], [0, 1, 0, 1, 0, 1, 0, 1], 3);
             // Longest_Continuous_Subarray_With_Absolute_Diff_Less_Than_or_Equal_to_Limit_1438.LongestSubarray([1,5,6,7,8,10,6,5,6], 4);
             // Binary_Search_Tree_to_Greater_Sum_Tree_1038.BstToGst(Binary_Search_Tree_to_Greater_Sum_Tree_1038.PrepareData());
-            Balance_a_Binary_Search_Tree_1382.BalanceBST(Balance_a_Binary_Search_Tree_1382.PrepareData());
+            // Balance_a_Binary_Search_Tree_1382.BalanceBST(Balance_a_Binary_Search_Tree_1382.PrepareData());
+            Find_Center_of_Star_Graph_1791.FindCenter([[1, 2], [2, 3], [4, 2]]);
         }
     }
 }
