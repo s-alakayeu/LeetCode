@@ -95,7 +95,8 @@ namespace LeetCode
             // Find_Center_of_Star_Graph_1791.FindCenter([[1, 2], [2, 3], [4, 2]]);
             // All_Ancestors_of_a_Node_in_a_Directed_Acyclic_Graph_2192.GetAncestors(6, [[0,3],[5,0],[2,3],[4,3],[5,3],[1,3],[2,5],[0,1],[4,5],[4,2],[4,0],[2,1],[5,1]]);
             // Three_Consecutive_Odds_1550.ThreeConsecutiveOdds([1, 2, 34, 3, 4, 5, 7, 23, 12]);
-            Intersection_of_Two_Arrays_II_350.Intersect([4, 9, 5], [9, 4, 9, 8, 4]);
+            // Intersection_of_Two_Arrays_II_350.Intersect([4, 9, 5], [9, 4, 9, 8, 4]);
+            Minimum_Difference_Between_Largest_and_Smallest_Value_in_Three_Moves_1509.MinDifference([1, 5, 0, 10, 14]);
         }
         
     }
