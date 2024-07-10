@@ -101,7 +101,8 @@ namespace LeetCode
             // Pass_the_Pillow_2582.PassThePillow(4, 5);
             // Water_Bottles_1518.NumWaterBottles(15, 4);
             // Find_the_Winner_of_the_Circular_Game_1823.FindTheWinner(5, 2);
-            Average_Waiting_Time_1701.AverageWaitingTime([[1, 2], [2, 5], [4, 3]]);
+            // Average_Waiting_Time_1701.AverageWaitingTime([[1, 2], [2, 5], [4, 3]]);
+            Crawler_Log_Folder_1598.MinOperations(["d1/", "d2/", "./", "d3/", "../", "d31/"]);
         }
         
     }
