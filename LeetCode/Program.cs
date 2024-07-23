@@ -104,7 +104,8 @@ namespace LeetCode
             // Average_Waiting_Time_1701.AverageWaitingTime([[1, 2], [2, 5], [4, 3]]);
             // Crawler_Log_Folder_1598.MinOperations(["d1/", "d2/", "./", "d3/", "../", "d31/"]);
             // Lucky_Numbers_in_a_Matrix_1380.LuckyNumbers([[1, 10, 4, 2], [9, 3, 8, 7], [15, 16, 17, 12]]);
-            Sort_the_People_2418.SortPeople(["Mary", "John", "Emma"], [180, 165, 170]);
+            // Sort_the_People_2418.SortPeople(["Mary", "John", "Emma"], [180, 165, 170]);
+            Sort_Array_by_Increasing_Frequency_1636.FrequencySort([-1, 1, -6, 4, 5, -6, 1, 4, 1]);
         }
     }
 }
