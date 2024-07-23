@@ -103,7 +103,8 @@ namespace LeetCode
             // Find_the_Winner_of_the_Circular_Game_1823.FindTheWinner(5, 2);
             // Average_Waiting_Time_1701.AverageWaitingTime([[1, 2], [2, 5], [4, 3]]);
             // Crawler_Log_Folder_1598.MinOperations(["d1/", "d2/", "./", "d3/", "../", "d31/"]);
-            Lucky_Numbers_in_a_Matrix_1380.LuckyNumbers([[1, 10, 4, 2], [9, 3, 8, 7], [15, 16, 17, 12]]);
+            // Lucky_Numbers_in_a_Matrix_1380.LuckyNumbers([[1, 10, 4, 2], [9, 3, 8, 7], [15, 16, 17, 12]]);
+            Sort_the_People_2418.SortPeople(["Mary", "John", "Emma"], [180, 165, 170]);
         }
     }
 }
