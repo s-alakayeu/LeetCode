@@ -107,7 +107,8 @@ namespace LeetCode
             // Sort_the_People_2418.SortPeople(["Mary", "John", "Emma"], [180, 165, 170]);
             // Sort_Array_by_Increasing_Frequency_1636.FrequencySort([-1, 1, -6, 4, 5, -6, 1, 4, 1]);
             // Sort_the_Jumbled_Numbers_2191.SortJumbled([8, 9, 4, 0, 2, 1, 3, 5, 7, 6], [991, 338, 38]);
-            Minimum_Cost_to_Convert_String_I_2976.MinimumCost("abcd", "acbe", ['a', 'b', 'c', 'c', 'e', 'd'], ['b', 'c', 'b', 'e', 'b', 'e'], [2, 5, 5, 1, 2, 20]);
+            // Minimum_Cost_to_Convert_String_I_2976.MinimumCost("abcd", "acbe", ['a', 'b', 'c', 'c', 'e', 'd'], ['b', 'c', 'b', 'e', 'b', 'e'], [2, 5, 5, 1, 2, 20]);
+            Count_Number_of_Teams_1395.NumTeams([2, 5, 3, 4, 1]);
         }
     }
 }
