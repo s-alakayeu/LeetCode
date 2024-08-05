@@ -109,7 +109,8 @@ namespace LeetCode
             // Sort_the_Jumbled_Numbers_2191.SortJumbled([8, 9, 4, 0, 2, 1, 3, 5, 7, 6], [991, 338, 38]);
             // Minimum_Cost_to_Convert_String_I_2976.MinimumCost("abcd", "acbe", ['a', 'b', 'c', 'c', 'e', 'd'], ['b', 'c', 'b', 'e', 'b', 'e'], [2, 5, 5, 1, 2, 20]);
             // Count_Number_of_Teams_1395.NumTeams([2, 5, 3, 4, 1]);
-            Minimum_Deletions_to_Make_String_Balanced_1653.MinimumDeletions("aababbab");
+            // Minimum_Deletions_to_Make_String_Balanced_1653.MinimumDeletions("aababbab");
+            Kth_Distinct_String_in_an_Array_2053.KthDistinct(["a","b","a"], 3);
         }
     }
 }
