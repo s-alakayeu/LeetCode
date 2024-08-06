@@ -110,7 +110,8 @@ namespace LeetCode
             // Minimum_Cost_to_Convert_String_I_2976.MinimumCost("abcd", "acbe", ['a', 'b', 'c', 'c', 'e', 'd'], ['b', 'c', 'b', 'e', 'b', 'e'], [2, 5, 5, 1, 2, 20]);
             // Count_Number_of_Teams_1395.NumTeams([2, 5, 3, 4, 1]);
             // Minimum_Deletions_to_Make_String_Balanced_1653.MinimumDeletions("aababbab");
-            Kth_Distinct_String_in_an_Array_2053.KthDistinct(["a","b","a"], 3);
+            // Kth_Distinct_String_in_an_Array_2053.KthDistinct(["a","b","a"], 3);
+            Minimum_Number_of_Pushes_to_Type_Word_II_3016.MinimumPushes("aabbccddeeffgghhiiiiii");
         }
     }
 }
